@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-verdana {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@layer components {
+    body {
+        @apply bg-black 
+    }
+}
+
+.pic-bg {
+    background-image: url('./background.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.font-ubuntu {
+    font-family: Ubuntu;
+}
+
+.font-nunito {
+    font-family: Nunito;
+}
+
+.btn:hover .inner-content {
+    color: rgb(103 232 249);
+    transform: translateX(0.5rem)
+}
