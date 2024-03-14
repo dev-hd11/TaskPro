@@ -1,2 +1,3 @@
 # TaskPro™️
-A light-weight version of Confidante™️ to manage your tasks. Made with Next.js
+A light-weight version of Confidante™️ to manage your tasks. Made with Next.js.<br>
+Under development!
