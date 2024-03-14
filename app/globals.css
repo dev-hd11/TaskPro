@@ -31,3 +31,12 @@
     color: rgb(103 232 249);
     transform: translateX(0.5rem)
 }
+
+input[type='text']:focus {
+    outline: none;
+    border: none;
+}
+
+.btn-s:hover .inner {
+    color: red;
+}
