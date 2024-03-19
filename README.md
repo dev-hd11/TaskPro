@@ -18,7 +18,8 @@ It has a simple UI and descent features and is efficient.
 
 # Versions
 
-1. Version 1.0 [Latest]
+1. Version 1.1 [Latest]
+2. Version 1
 
 # Support
 
