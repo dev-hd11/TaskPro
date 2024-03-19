@@ -11,7 +11,7 @@ export default function Home() {
       <div className="container md:h-[82vh] h-[79.5vh] flex flex-col gap-10 justify-center">
         <div className="flex flex-col justify-center items-center gap-7 bg-white bg-opacity-0 md:mb-8 mb-5">
           <h1 className="text-center md:text-7xl text-4xl font-extrabold font-verdana bg-gradient-to-r from-cyan-600 via-green-300 to-indigo-600 inline-block text-transparent bg-clip-text">
-            Welcome to TaskPro&trade;
+            Welcome to <span className="font-ubuntu">TaskPro&trade;</span>
           </h1>
           <p className="text-white md:text-xl text-xs font-ubuntu font-semibold">A light-weight version of Confidante&trade; to manage your tasks.</p>
         </div>

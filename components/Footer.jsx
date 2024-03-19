@@ -7,7 +7,7 @@ const Footer = () => {
             Version 1.0
         </div>
       <footer>
-        TaskPro&trade; &copy; Himank Deka, 2023 - {new Date().getFullYear()}.
+        <span className='font-ubuntu'>TaskPro&trade;</span> &copy; Himank Deka, 2023 - {new Date().getFullYear()}.
       </footer>
     </div>
   )

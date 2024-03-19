@@ -14,7 +14,7 @@ export default async function connectDB() {
         console.log("Connected to MongoDB.");
     } catch (error) {
         console.error("Failed to connect to MongoDB:", error);
-        throw error; // Rethrow the error for handling in the calling code
+        throw error;
     }
 }
 
